@@ -10,7 +10,7 @@ The data used in this project was sourced from **Kaggle**. It consists of clinic
 * **Source:** [Kaggle Dataset Link](https://www.kaggle.com/datasets/owmexiaolin/dengue-prediction) 
 * **Key Features:** Platelets, Hemoglobin, Hematocrit, WBC, RBC, etc.
 
-### 🚀 Key Features
+###  Key Features
 
 * **Multi-Model Comparison**: Evaluated **XGBoost, Decision Tree, Random Forest, SVM, Logistic Regression, and Naive Bayes**.
 * **Performance Leaders**: Achieved the highest predictive accuracy using **XGBoost** and **Decision Trees**.
@@ -22,12 +22,12 @@ The data used in this project was sourced from **Kaggle**. It consists of clinic
 * **`Project_CSE366.ipynb`**: Jupyter Notebook containing the Kaggle data import, EDA, and model implementation.
 * **`Group_1_Report_CSE366.pdf`**: Detailed academic report covering the methodology and statistical findings.
 
-### 🛠️ Technical Stack
+###  Technical Stack
 
 * **Language**: Python
 * **Libraries**: `scikit-learn`, `XGBoost`, `Pandas`, `NumPy`, `Seaborn`.
 
-### ⚙️ How to Run
+###  How to Run
 
 1. Clone this repository.
 2. Install dependencies: `pip install pandas scikit-learn xgboost seaborn`.
@@ -36,7 +36,7 @@ The data used in this project was sourced from **Kaggle**. It consists of clinic
 
 ---
 
-### 🎓 Academic Context
+###  Academic Context
 
 * **Course**: Artificial Intelligence (CSE366)
 * **Institution**: East West University
